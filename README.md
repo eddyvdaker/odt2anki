@@ -1,5 +1,5 @@
 # odt2anki
-A script that converts and odt file with questions in a table to txt file that can be imported into Anki.
+A script that converts an odt file with tables (each containing a header row and three columns: question, answer, location in material) to txt file that can be imported into Anki.
 
 ## License
 MIT license
